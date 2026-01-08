@@ -1,0 +1,23 @@
+{
+  "name": "matchmypolicyannihilator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eniamza/MatchMyPolicyAnnihilator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Eniamza/MatchMyPolicyAnnihilator/issues"
+  },
+  "homepage": "https://github.com/Eniamza/MatchMyPolicyAnnihilator#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.3"
+  }
+}
